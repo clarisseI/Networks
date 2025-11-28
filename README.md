@@ -51,9 +51,7 @@ Select:
 cd node_server
 node server.js
 ```
-Visit 
-  `http://localhost:8080/`   - 200_page.html 
-  `http://localhost:8080/anything`  - 400_page.html
+Visit  `http://localhost:8080/`  or `http://localhost:8080/anything` 
 
 **UDP Client:**
 ```bash
