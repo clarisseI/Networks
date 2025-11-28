@@ -29,7 +29,7 @@ project/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/network-programming-project.git
+git clone https://github.com/clarisseI/Networks
 ```
 
 ## 🎮 Usage
